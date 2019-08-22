@@ -13,10 +13,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chat-api" target="1.5" />
-      <module name="chat-commons" target="1.5" />
-      <module name="chat-logic" target="1.5" />
-      <module name="chat-server" target="1.5" />
+      <module name="chat-api" target="1.8" />
+      <module name="chat-commons" target="1.8" />
+      <module name="chat-logic" target="1.8" />
+      <module name="chat-server" target="1.8" />
       <module name="im_v2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
